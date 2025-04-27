@@ -1,6 +1,9 @@
 
 ## 👉 Click here -  [caffiend-coffee-tracker](https://caffiend-coffee-track.netlify.app/)
 
+
+## A modern coffee tracking app built with React.js and Vite, styled using FantaCSS, and powered by Firebase for authentication and real-time data storage. The app allows users to log and monitor their coffee consumption, leveraging a fast React frontend and a scalable serverless backend for a seamless user experience
+
 ![KevinCanFHimselfAllisonMcrobertsGIF](https://github.com/user-attachments/assets/df0cd757-209c-4226-8fa7-c9dc3ab43915)
 
 
